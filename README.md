@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🏛️ I’m an architectture student at Iran University of Science and Technology
-- 🔭 I’m currently working on interdisciplinary projects, combining literally EVERYTHING with design:)
+- 🏛️ I’m an **architectture** student at **Iran University of Science and Technology**
+- 🔭 I’m currently working on interdisciplinary projects, combining literally **EVERYTHING** with **design**:)
 
 
 <!--
