@@ -1,7 +1,7 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- I’m an architectture student at Iran University of Science and Technology
+- 🔭 I’m currently working on interdisciplinary projects, combining literally EVERYTHING with design:)
+
 
 <!--
 **parniaosati/parniaosati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
