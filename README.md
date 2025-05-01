@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🏛️ I’m an ***architectture*** student at ***Iran University of Science and Technology***
 - 🔭 I’m currently working on interdisciplinary projects, combining literally ***EVERYTHING*** with ***design*** :)
-
+- 👯‍♀️ Have a collaboration idea? Feel free to reach out at **parniaosati@gmail.com** — I'm always open to exciting projects!
 
 <!--
 **parniaosati/parniaosati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
